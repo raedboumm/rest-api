@@ -28,10 +28,10 @@ Copy code
 node server.js
 Routes:
 
-GET: http://localhost:5000/api/users
-POST: http://localhost:5000/api/users
-PUT: http://localhost:5000/api/users/:id
-DELETE: http://localhost:5000/api/users/:id
+GET: http://localhost:5000/api/
+POST: http://localhost:5000/api/POST
+PUT: http://localhost:5000/api/UPDATE/:id
+DELETE: http://localhost:5000/api/DELETE/:id
 Testing
 Use Postman to test the routes.
 
