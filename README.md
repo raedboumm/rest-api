@@ -1,16 +1,8 @@
 Node.js Express MongoDB Template
 A minimal Node.js template using Express and MongoDB with Mongoose.
 
-Setup
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/your-node-project.git
-Install dependencies:
 
-bash
-Copy code
 npm install
 Create a .env file in the config folder:
 
@@ -23,9 +15,6 @@ Replace your-database with your MongoDB database name.
 Usage
 Start the server:
 
-bash
-Copy code
-node server.js
 Routes:
 
 GET: http://localhost:5000/api/
